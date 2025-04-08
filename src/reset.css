@@ -1,0 +1,10 @@
+html{
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 10%;
+	font: inherit;
+	vertical-align: baseline;
+	max-height: 100vh;
+	max-width: 100vw;
+}
