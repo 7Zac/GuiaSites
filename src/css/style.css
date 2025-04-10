@@ -4,8 +4,8 @@ body{
     font-family: Ubuntu, Sans-serif;
     color: #f2f5f7;
     width: 100%;
-    height: 100%;
     margin: 0;
+    padding: 0;
 }
 
 nav{
@@ -16,14 +16,22 @@ nav{
 }
 
 .logo{
+<<<<<<< HEAD
     height: 180px;
     width: 180px;
+=======
+    height: 10rem;
+    width: 10rem;
+>>>>>>> c8d152f01b863d46ef358a760ae139585d7a6761
     border-radius: 100%;
     border-bottom: #f2f5f7 5px solid;
 }
 
 ul{
+<<<<<<< HEAD
     display: flex;
+=======
+>>>>>>> c8d152f01b863d46ef358a760ae139585d7a6761
     padding: 0px;
     margin: 0px;
 }
@@ -65,7 +73,11 @@ li{
 a{
     text-decoration: none;
     color: #f2f5f7;
+<<<<<<< HEAD
     font-size: 20px;
+=======
+    font-size: 14px;
+>>>>>>> c8d152f01b863d46ef358a760ae139585d7a6761
     padding: 10px;
     transition: linear 0.1s;
     margin: 10px;
@@ -74,8 +86,6 @@ a{
 main{
     display: flex;
     justify-content: center;
-    margin-top: 30px;
-    
 }
 
 main .menu{
@@ -98,6 +108,10 @@ main .menu-p{
 .icon{
     width: 35px;
     height: 35px;
+<<<<<<< HEAD
+=======
+    display: flex;
+>>>>>>> c8d152f01b863d46ef358a760ae139585d7a6761
 }
 
 a:hover{
@@ -206,9 +220,3 @@ footer{
     bottom: 0px;
 
 }
-
-
-
-
-
-
